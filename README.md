@@ -1,2 +1,2 @@
 # WhatsAppMessage
-This app will send a whatsapp message to verified numbers using Twilio API. It is just a prototype, with a trial account. 
+WhatsApp Business Verification Code 455900 for +17624754298
